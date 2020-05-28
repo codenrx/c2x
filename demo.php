@@ -26,6 +26,7 @@ function c2x_after_import($selected_import)
             update_option('page_for_posts', $blog->ID);
             update_option('show_on_front', 'page');
         }
+        update_option('posts_per_page', 9);
     }
 }
 add_action('pt-ocdi/after_import', 'c2x_after_import');

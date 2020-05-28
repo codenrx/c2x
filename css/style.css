@@ -456,7 +456,7 @@ footer > .social-icons a {
 
 .page-content > .image {
   text-align: center;
-  margin: -90px 0px 40px 0px;
+  margin: -90px 0px 27px 0px;
 }
 
 .page-content > .image > img {
@@ -549,6 +549,10 @@ a#cancel-comment-reply-link {
 .wpcf7-submit:hover,
 .submit-btn:hover {
   background-color: #c6c6c8;
+}
+
+.page-content > .content > .category {
+  padding-top: 18px;
 }
 
 .page-content > .content > .category > a {
