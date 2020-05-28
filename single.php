@@ -46,9 +46,9 @@
             <div class="date"><?php echo get_the_date(); ?></div>
             <a href class="comments"><?php comments_number(); ?></a>
             <div class="socials">
-              <a href=""><i class="fa fa-facebook"></i></a>
-              <a href=""><i class="fa fa-twitter"></i></a>
-              <a href=""><i class="fa fa-pinterest"></i></a>
+              <a href="https://www.facebook.com/sharer/sharer.php?u=<?php the_permalink(); ?>" target="_blank"><i class="fa fa-facebook"></i></a>
+              <a href="https://twitter.com/intent/tweet?text=<?php the_permalink(); ?>" target="_blank"><i class="fa fa-twitter"></i></a>
+              <a href="https://pinterest.com/pin/create/button/?url=<?php the_permalink(); ?>&media=<?php echo get_the_post_thumbnail_url(); ?>&description=<?php the_title(); ?>" target="_blank"><i class="fa fa-pinterest"></i></a>
             </div>
           </div>
         </div>
