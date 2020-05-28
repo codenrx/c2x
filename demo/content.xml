@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.4.1" created="2020-05-28 20:13" -->
+	<!-- generator="WordPress/5.4.1" created="2020-05-28 22:35" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>My Blog</title>
 	<link>https://c2x.codenrx.com</link>
 	<description>My WordPress Blog</description>
-	<pubDate>Thu, 28 May 2020 20:13:34 +0000</pubDate>
+	<pubDate>Thu, 28 May 2020 22:35:37 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://c2x.codenrx.com</wp:base_site_url>
@@ -76,31 +76,116 @@
 
 	<generator>https://wordpress.org/?v=5.4.1</generator>
 
-<image>
-	<url>https://c2x.codenrx.com/wp-content/uploads/2020/05/cropped-logo-1-32x32.png</url>
-	<title>My Blog</title>
-	<link>https://c2x.codenrx.com</link>
-	<width>32</width>
-	<height>32</height>
-</image> 
-
 		<item>
-		<title>4843-e1585124780135-390x280</title>
-		<link>https://c2x.codenrx.com/contact/4843-e1585124780135-390x280/</link>
-		<pubDate>Thu, 28 May 2020 18:26:44 +0000</pubDate>
+		<title>9a2e93e2-36fe-3ba2-884a-fc8352dab74b</title>
+		<link>https://c2x.codenrx.com/9a2e93e2-36fe-3ba2-884a-fc8352dab74b/</link>
+		<pubDate>Thu, 28 May 2020 22:29:25 +0000</pubDate>
+		<dc:creator><![CDATA[codenrxproduct]]></dc:creator>
+		<guid isPermaLink="false">https://c2x.codenrx.com/wp-content/uploads/2020/05/9a2e93e2-36fe-3ba2-884a-fc8352dab74b.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>113</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-28 22:29:25]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-28 22:29:25]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[9a2e93e2-36fe-3ba2-884a-fc8352dab74b]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://c2x.codenrx.com/wp-content/uploads/2020/05/9a2e93e2-36fe-3ba2-884a-fc8352dab74b.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/9a2e93e2-36fe-3ba2-884a-fc8352dab74b.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1160;s:6:"height";i:773;s:4:"file";s:48:"2020/05/9a2e93e2-36fe-3ba2-884a-fc8352dab74b.jpg";s:5:"sizes";a:4:{s:6:"medium";a:4:{s:4:"file";s:48:"9a2e93e2-36fe-3ba2-884a-fc8352dab74b-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:49:"9a2e93e2-36fe-3ba2-884a-fc8352dab74b-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:48:"9a2e93e2-36fe-3ba2-884a-fc8352dab74b-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:48:"9a2e93e2-36fe-3ba2-884a-fc8352dab74b-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>24e0db04-ac1b-3ec5-a52f-38ef01cbed7d</title>
+		<link>https://c2x.codenrx.com/24e0db04-ac1b-3ec5-a52f-38ef01cbed7d/</link>
+		<pubDate>Thu, 28 May 2020 22:29:32 +0000</pubDate>
+		<dc:creator><![CDATA[codenrxproduct]]></dc:creator>
+		<guid isPermaLink="false">https://c2x.codenrx.com/wp-content/uploads/2020/05/24e0db04-ac1b-3ec5-a52f-38ef01cbed7d.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>114</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-28 22:29:32]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-28 22:29:32]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[24e0db04-ac1b-3ec5-a52f-38ef01cbed7d]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://c2x.codenrx.com/wp-content/uploads/2020/05/24e0db04-ac1b-3ec5-a52f-38ef01cbed7d.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/24e0db04-ac1b-3ec5-a52f-38ef01cbed7d.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1382;s:6:"height";i:921;s:4:"file";s:48:"2020/05/24e0db04-ac1b-3ec5-a52f-38ef01cbed7d.jpg";s:5:"sizes";a:4:{s:6:"medium";a:4:{s:4:"file";s:48:"24e0db04-ac1b-3ec5-a52f-38ef01cbed7d-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:49:"24e0db04-ac1b-3ec5-a52f-38ef01cbed7d-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:48:"24e0db04-ac1b-3ec5-a52f-38ef01cbed7d-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:48:"24e0db04-ac1b-3ec5-a52f-38ef01cbed7d-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>69eb3575-9f31-3aae-acb2-42d07be44607</title>
+		<link>https://c2x.codenrx.com/69eb3575-9f31-3aae-acb2-42d07be44607/</link>
+		<pubDate>Thu, 28 May 2020 22:29:38 +0000</pubDate>
+		<dc:creator><![CDATA[codenrxproduct]]></dc:creator>
+		<guid isPermaLink="false">https://c2x.codenrx.com/wp-content/uploads/2020/05/69eb3575-9f31-3aae-acb2-42d07be44607.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>115</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-28 22:29:38]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-28 22:29:38]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[69eb3575-9f31-3aae-acb2-42d07be44607]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://c2x.codenrx.com/wp-content/uploads/2020/05/69eb3575-9f31-3aae-acb2-42d07be44607.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/69eb3575-9f31-3aae-acb2-42d07be44607.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1088;s:6:"height";i:725;s:4:"file";s:48:"2020/05/69eb3575-9f31-3aae-acb2-42d07be44607.jpg";s:5:"sizes";a:4:{s:6:"medium";a:4:{s:4:"file";s:48:"69eb3575-9f31-3aae-acb2-42d07be44607-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:49:"69eb3575-9f31-3aae-acb2-42d07be44607-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:48:"69eb3575-9f31-3aae-acb2-42d07be44607-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:48:"69eb3575-9f31-3aae-acb2-42d07be44607-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>4843-e1585124780135-390x280-1</title>
+		<link>https://c2x.codenrx.com/4843-e1585124780135-390x280-1/</link>
+		<pubDate>Thu, 28 May 2020 22:29:40 +0000</pubDate>
 		<dc:creator><![CDATA[codenrxproduct]]></dc:creator>
 		<guid isPermaLink="false">https://c2x.codenrx.com/wp-content/uploads/2020/05/4843-e1585124780135-390x280-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>21</wp:post_id>
-		<wp:post_date><![CDATA[2020-05-28 18:26:44]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-05-28 18:26:44]]></wp:post_date_gmt>
+		<wp:post_id>116</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-28 22:29:40]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-28 22:29:40]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[4843-e1585124780135-390x280]]></wp:post_name>
+		<wp:post_name><![CDATA[4843-e1585124780135-390x280-1]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>20</wp:post_parent>
+		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
@@ -116,22 +201,22 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>7795-2-390x487</title>
-		<link>https://c2x.codenrx.com/contact/7795-2-390x487/</link>
-		<pubDate>Thu, 28 May 2020 18:26:45 +0000</pubDate>
+		<title>7795-2-390x487-1</title>
+		<link>https://c2x.codenrx.com/7795-2-390x487-1/</link>
+		<pubDate>Thu, 28 May 2020 22:29:41 +0000</pubDate>
 		<dc:creator><![CDATA[codenrxproduct]]></dc:creator>
 		<guid isPermaLink="false">https://c2x.codenrx.com/wp-content/uploads/2020/05/7795-2-390x487-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>22</wp:post_id>
-		<wp:post_date><![CDATA[2020-05-28 18:26:45]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-05-28 18:26:45]]></wp:post_date_gmt>
+		<wp:post_id>117</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-28 22:29:41]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-28 22:29:41]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[7795-2-390x487]]></wp:post_name>
+		<wp:post_name><![CDATA[7795-2-390x487-1]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>20</wp:post_parent>
+		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
@@ -147,22 +232,53 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>8554-1-e1585125070691-390x282</title>
-		<link>https://c2x.codenrx.com/contact/8554-1-e1585125070691-390x282/</link>
-		<pubDate>Thu, 28 May 2020 18:26:46 +0000</pubDate>
+		<title>8501dae9-96d7-39a3-8b3d-dfeabec3327e</title>
+		<link>https://c2x.codenrx.com/8501dae9-96d7-39a3-8b3d-dfeabec3327e/</link>
+		<pubDate>Thu, 28 May 2020 22:29:45 +0000</pubDate>
+		<dc:creator><![CDATA[codenrxproduct]]></dc:creator>
+		<guid isPermaLink="false">https://c2x.codenrx.com/wp-content/uploads/2020/05/8501dae9-96d7-39a3-8b3d-dfeabec3327e.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>118</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-28 22:29:45]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-28 22:29:45]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[8501dae9-96d7-39a3-8b3d-dfeabec3327e]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://c2x.codenrx.com/wp-content/uploads/2020/05/8501dae9-96d7-39a3-8b3d-dfeabec3327e.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/8501dae9-96d7-39a3-8b3d-dfeabec3327e.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1175;s:6:"height";i:783;s:4:"file";s:48:"2020/05/8501dae9-96d7-39a3-8b3d-dfeabec3327e.jpg";s:5:"sizes";a:4:{s:6:"medium";a:4:{s:4:"file";s:48:"8501dae9-96d7-39a3-8b3d-dfeabec3327e-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:49:"8501dae9-96d7-39a3-8b3d-dfeabec3327e-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:48:"8501dae9-96d7-39a3-8b3d-dfeabec3327e-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:48:"8501dae9-96d7-39a3-8b3d-dfeabec3327e-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>8554-1-e1585125070691-390x282-1</title>
+		<link>https://c2x.codenrx.com/8554-1-e1585125070691-390x282-1/</link>
+		<pubDate>Thu, 28 May 2020 22:29:47 +0000</pubDate>
 		<dc:creator><![CDATA[codenrxproduct]]></dc:creator>
 		<guid isPermaLink="false">https://c2x.codenrx.com/wp-content/uploads/2020/05/8554-1-e1585125070691-390x282-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>23</wp:post_id>
-		<wp:post_date><![CDATA[2020-05-28 18:26:46]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-05-28 18:26:46]]></wp:post_date_gmt>
+		<wp:post_id>119</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-28 22:29:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-28 22:29:47]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[8554-1-e1585125070691-390x282]]></wp:post_name>
+		<wp:post_name><![CDATA[8554-1-e1585125070691-390x282-1]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>20</wp:post_parent>
+		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
@@ -178,22 +294,22 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>11828-1-390x487</title>
-		<link>https://c2x.codenrx.com/contact/11828-1-390x487/</link>
-		<pubDate>Thu, 28 May 2020 18:26:47 +0000</pubDate>
+		<title>11828-1-390x487-1</title>
+		<link>https://c2x.codenrx.com/11828-1-390x487-1/</link>
+		<pubDate>Thu, 28 May 2020 22:29:48 +0000</pubDate>
 		<dc:creator><![CDATA[codenrxproduct]]></dc:creator>
 		<guid isPermaLink="false">https://c2x.codenrx.com/wp-content/uploads/2020/05/11828-1-390x487-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>24</wp:post_id>
-		<wp:post_date><![CDATA[2020-05-28 18:26:47]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-05-28 18:26:47]]></wp:post_date_gmt>
+		<wp:post_id>120</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-28 22:29:48]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-28 22:29:48]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[11828-1-390x487]]></wp:post_name>
+		<wp:post_name><![CDATA[11828-1-390x487-1]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>20</wp:post_parent>
+		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
@@ -210,21 +326,21 @@
 							</item>
 					<item>
 		<title>architecture</title>
-		<link>https://c2x.codenrx.com/contact/architecture/</link>
-		<pubDate>Thu, 28 May 2020 18:27:01 +0000</pubDate>
+		<link>https://c2x.codenrx.com/architecture/</link>
+		<pubDate>Thu, 28 May 2020 22:29:51 +0000</pubDate>
 		<dc:creator><![CDATA[codenrxproduct]]></dc:creator>
 		<guid isPermaLink="false">https://c2x.codenrx.com/wp-content/uploads/2020/05/architecture.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>25</wp:post_id>
-		<wp:post_date><![CDATA[2020-05-28 18:27:01]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-05-28 18:27:01]]></wp:post_date_gmt>
+		<wp:post_id>121</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-28 22:29:51]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-28 22:29:51]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[architecture]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>20</wp:post_parent>
+		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
@@ -240,22 +356,53 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title>cc21d9f8-e983-355b-adda-f7f5a920acd0</title>
+		<link>https://c2x.codenrx.com/cc21d9f8-e983-355b-adda-f7f5a920acd0/</link>
+		<pubDate>Thu, 28 May 2020 22:29:55 +0000</pubDate>
+		<dc:creator><![CDATA[codenrxproduct]]></dc:creator>
+		<guid isPermaLink="false">https://c2x.codenrx.com/wp-content/uploads/2020/05/cc21d9f8-e983-355b-adda-f7f5a920acd0.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>122</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-28 22:29:55]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-28 22:29:55]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[cc21d9f8-e983-355b-adda-f7f5a920acd0]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://c2x.codenrx.com/wp-content/uploads/2020/05/cc21d9f8-e983-355b-adda-f7f5a920acd0.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/cc21d9f8-e983-355b-adda-f7f5a920acd0.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1306;s:6:"height";i:870;s:4:"file";s:48:"2020/05/cc21d9f8-e983-355b-adda-f7f5a920acd0.jpg";s:5:"sizes";a:4:{s:6:"medium";a:4:{s:4:"file";s:48:"cc21d9f8-e983-355b-adda-f7f5a920acd0-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:49:"cc21d9f8-e983-355b-adda-f7f5a920acd0-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:48:"cc21d9f8-e983-355b-adda-f7f5a920acd0-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:48:"cc21d9f8-e983-355b-adda-f7f5a920acd0-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title>cosmo</title>
-		<link>https://c2x.codenrx.com/contact/cosmo/</link>
-		<pubDate>Thu, 28 May 2020 18:27:03 +0000</pubDate>
+		<link>https://c2x.codenrx.com/cosmo/</link>
+		<pubDate>Thu, 28 May 2020 22:30:01 +0000</pubDate>
 		<dc:creator><![CDATA[codenrxproduct]]></dc:creator>
 		<guid isPermaLink="false">https://c2x.codenrx.com/wp-content/uploads/2020/05/cosmo.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>26</wp:post_id>
-		<wp:post_date><![CDATA[2020-05-28 18:27:03]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-05-28 18:27:03]]></wp:post_date_gmt>
+		<wp:post_id>123</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-28 22:30:01]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-28 22:30:01]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cosmo]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>20</wp:post_parent>
+		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
@@ -271,22 +418,115 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title>cropped-logo-1</title>
+		<link>https://c2x.codenrx.com/cropped-logo-1/</link>
+		<pubDate>Thu, 28 May 2020 22:30:03 +0000</pubDate>
+		<dc:creator><![CDATA[codenrxproduct]]></dc:creator>
+		<guid isPermaLink="false">https://c2x.codenrx.com/wp-content/uploads/2020/05/cropped-logo-1.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>124</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-28 22:30:03]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-28 22:30:03]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[cropped-logo-1]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://c2x.codenrx.com/wp-content/uploads/2020/05/cropped-logo-1.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/cropped-logo-1.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:512;s:6:"height";i:512;s:4:"file";s:26:"2020/05/cropped-logo-1.png";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:26:"cropped-logo-1-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:26:"cropped-logo-1-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>d18cf38b-9ebf-37b4-bd65-65af2915c92e</title>
+		<link>https://c2x.codenrx.com/d18cf38b-9ebf-37b4-bd65-65af2915c92e/</link>
+		<pubDate>Thu, 28 May 2020 22:30:05 +0000</pubDate>
+		<dc:creator><![CDATA[codenrxproduct]]></dc:creator>
+		<guid isPermaLink="false">https://c2x.codenrx.com/wp-content/uploads/2020/05/d18cf38b-9ebf-37b4-bd65-65af2915c92e.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>125</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-28 22:30:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-28 22:30:05]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[d18cf38b-9ebf-37b4-bd65-65af2915c92e]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://c2x.codenrx.com/wp-content/uploads/2020/05/d18cf38b-9ebf-37b4-bd65-65af2915c92e.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/d18cf38b-9ebf-37b4-bd65-65af2915c92e.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1283;s:6:"height";i:855;s:4:"file";s:48:"2020/05/d18cf38b-9ebf-37b4-bd65-65af2915c92e.jpg";s:5:"sizes";a:4:{s:6:"medium";a:4:{s:4:"file";s:48:"d18cf38b-9ebf-37b4-bd65-65af2915c92e-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:49:"d18cf38b-9ebf-37b4-bd65-65af2915c92e-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:48:"d18cf38b-9ebf-37b4-bd65-65af2915c92e-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:48:"d18cf38b-9ebf-37b4-bd65-65af2915c92e-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>d23fd500-04e7-3f47-a530-221a96302169</title>
+		<link>https://c2x.codenrx.com/d23fd500-04e7-3f47-a530-221a96302169/</link>
+		<pubDate>Thu, 28 May 2020 22:30:09 +0000</pubDate>
+		<dc:creator><![CDATA[codenrxproduct]]></dc:creator>
+		<guid isPermaLink="false">https://c2x.codenrx.com/wp-content/uploads/2020/05/d23fd500-04e7-3f47-a530-221a96302169.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>126</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-28 22:30:09]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-28 22:30:09]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[d23fd500-04e7-3f47-a530-221a96302169]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://c2x.codenrx.com/wp-content/uploads/2020/05/d23fd500-04e7-3f47-a530-221a96302169.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/d23fd500-04e7-3f47-a530-221a96302169.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1250;s:6:"height";i:833;s:4:"file";s:48:"2020/05/d23fd500-04e7-3f47-a530-221a96302169.jpg";s:5:"sizes";a:4:{s:6:"medium";a:4:{s:4:"file";s:48:"d23fd500-04e7-3f47-a530-221a96302169-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:49:"d23fd500-04e7-3f47-a530-221a96302169-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:48:"d23fd500-04e7-3f47-a530-221a96302169-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:48:"d23fd500-04e7-3f47-a530-221a96302169-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title>esse</title>
-		<link>https://c2x.codenrx.com/contact/esse/</link>
-		<pubDate>Thu, 28 May 2020 18:27:04 +0000</pubDate>
+		<link>https://c2x.codenrx.com/esse/</link>
+		<pubDate>Thu, 28 May 2020 22:30:11 +0000</pubDate>
 		<dc:creator><![CDATA[codenrxproduct]]></dc:creator>
 		<guid isPermaLink="false">https://c2x.codenrx.com/wp-content/uploads/2020/05/esse.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>27</wp:post_id>
-		<wp:post_date><![CDATA[2020-05-28 18:27:04]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-05-28 18:27:04]]></wp:post_date_gmt>
+		<wp:post_id>127</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-28 22:30:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-28 22:30:11]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[esse]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>20</wp:post_parent>
+		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
@@ -302,22 +542,53 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title>favicon</title>
+		<link>https://c2x.codenrx.com/favicon/</link>
+		<pubDate>Thu, 28 May 2020 22:30:14 +0000</pubDate>
+		<dc:creator><![CDATA[codenrxproduct]]></dc:creator>
+		<guid isPermaLink="false">https://c2x.codenrx.com/wp-content/uploads/2020/05/favicon.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>128</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-28 22:30:14]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-28 22:30:14]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[favicon]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://c2x.codenrx.com/wp-content/uploads/2020/05/favicon.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/favicon.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:450;s:6:"height";i:450;s:4:"file";s:19:"2020/05/favicon.png";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:19:"favicon-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:19:"favicon-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title>freshi</title>
-		<link>https://c2x.codenrx.com/contact/freshi/</link>
-		<pubDate>Thu, 28 May 2020 18:27:13 +0000</pubDate>
+		<link>https://c2x.codenrx.com/freshi/</link>
+		<pubDate>Thu, 28 May 2020 22:30:23 +0000</pubDate>
 		<dc:creator><![CDATA[codenrxproduct]]></dc:creator>
 		<guid isPermaLink="false">https://c2x.codenrx.com/wp-content/uploads/2020/05/freshi.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>28</wp:post_id>
-		<wp:post_date><![CDATA[2020-05-28 18:27:13]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-05-28 18:27:13]]></wp:post_date_gmt>
+		<wp:post_id>129</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-28 22:30:23]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-28 22:30:23]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[freshi]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>20</wp:post_parent>
+		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
@@ -334,21 +605,21 @@
 							</item>
 					<item>
 		<title>handmade</title>
-		<link>https://c2x.codenrx.com/contact/handmade/</link>
-		<pubDate>Thu, 28 May 2020 18:27:17 +0000</pubDate>
+		<link>https://c2x.codenrx.com/handmade/</link>
+		<pubDate>Thu, 28 May 2020 22:30:27 +0000</pubDate>
 		<dc:creator><![CDATA[codenrxproduct]]></dc:creator>
 		<guid isPermaLink="false">https://c2x.codenrx.com/wp-content/uploads/2020/05/handmade.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>29</wp:post_id>
-		<wp:post_date><![CDATA[2020-05-28 18:27:17]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-05-28 18:27:17]]></wp:post_date_gmt>
+		<wp:post_id>130</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-28 22:30:27]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-28 22:30:27]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[handmade]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>20</wp:post_parent>
+		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
@@ -365,21 +636,21 @@
 							</item>
 					<item>
 		<title>handy</title>
-		<link>https://c2x.codenrx.com/contact/handy/</link>
-		<pubDate>Thu, 28 May 2020 18:27:25 +0000</pubDate>
+		<link>https://c2x.codenrx.com/handy/</link>
+		<pubDate>Thu, 28 May 2020 22:30:30 +0000</pubDate>
 		<dc:creator><![CDATA[codenrxproduct]]></dc:creator>
 		<guid isPermaLink="false">https://c2x.codenrx.com/wp-content/uploads/2020/05/handy.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>30</wp:post_id>
-		<wp:post_date><![CDATA[2020-05-28 18:27:25]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-05-28 18:27:25]]></wp:post_date_gmt>
+		<wp:post_id>131</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-28 22:30:30]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-28 22:30:30]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[handy]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>20</wp:post_parent>
+		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
@@ -396,21 +667,21 @@
 							</item>
 					<item>
 		<title>kylie</title>
-		<link>https://c2x.codenrx.com/contact/kylie/</link>
-		<pubDate>Thu, 28 May 2020 18:27:30 +0000</pubDate>
+		<link>https://c2x.codenrx.com/kylie/</link>
+		<pubDate>Thu, 28 May 2020 22:30:32 +0000</pubDate>
 		<dc:creator><![CDATA[codenrxproduct]]></dc:creator>
 		<guid isPermaLink="false">https://c2x.codenrx.com/wp-content/uploads/2020/05/kylie.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>31</wp:post_id>
-		<wp:post_date><![CDATA[2020-05-28 18:27:30]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-05-28 18:27:30]]></wp:post_date_gmt>
+		<wp:post_id>132</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-28 22:30:32]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-28 22:30:32]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[kylie]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>20</wp:post_parent>
+		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
@@ -423,285 +694,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:545;s:6:"height";i:350;s:4:"file";s:17:"2020/05/kylie.png";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:17:"kylie-300x193.png";s:5:"width";i:300;s:6:"height";i:193;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:17:"kylie-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>madrid</title>
-		<link>https://c2x.codenrx.com/contact/madrid/</link>
-		<pubDate>Thu, 28 May 2020 18:27:35 +0000</pubDate>
-		<dc:creator><![CDATA[codenrxproduct]]></dc:creator>
-		<guid isPermaLink="false">https://c2x.codenrx.com/wp-content/uploads/2020/05/madrid.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>32</wp:post_id>
-		<wp:post_date><![CDATA[2020-05-28 18:27:35]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-05-28 18:27:35]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[madrid]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>20</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://c2x.codenrx.com/wp-content/uploads/2020/05/madrid.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020/05/madrid.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:546;s:6:"height";i:350;s:4:"file";s:18:"2020/05/madrid.png";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:18:"madrid-300x192.png";s:5:"width";i:300;s:6:"height";i:192;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:18:"madrid-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>main</title>
-		<link>https://c2x.codenrx.com/contact/main/</link>
-		<pubDate>Thu, 28 May 2020 18:27:41 +0000</pubDate>
-		<dc:creator><![CDATA[codenrxproduct]]></dc:creator>
-		<guid isPermaLink="false">https://c2x.codenrx.com/wp-content/uploads/2020/05/main.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>33</wp:post_id>
-		<wp:post_date><![CDATA[2020-05-28 18:27:41]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-05-28 18:27:41]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[main]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>20</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://c2x.codenrx.com/wp-content/uploads/2020/05/main.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020/05/main.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:545;s:6:"height";i:350;s:4:"file";s:16:"2020/05/main.png";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:16:"main-300x193.png";s:5:"width";i:300;s:6:"height";i:193;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:16:"main-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>masonry</title>
-		<link>https://c2x.codenrx.com/contact/masonry/</link>
-		<pubDate>Thu, 28 May 2020 18:27:48 +0000</pubDate>
-		<dc:creator><![CDATA[codenrxproduct]]></dc:creator>
-		<guid isPermaLink="false">https://c2x.codenrx.com/wp-content/uploads/2020/05/masonry.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>34</wp:post_id>
-		<wp:post_date><![CDATA[2020-05-28 18:27:48]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-05-28 18:27:48]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[masonry]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>20</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://c2x.codenrx.com/wp-content/uploads/2020/05/masonry.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020/05/masonry.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:545;s:6:"height";i:350;s:4:"file";s:19:"2020/05/masonry.png";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:19:"masonry-300x193.png";s:5:"width";i:300;s:6:"height";i:193;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:19:"masonry-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>revolution</title>
-		<link>https://c2x.codenrx.com/contact/revolution/</link>
-		<pubDate>Thu, 28 May 2020 18:27:55 +0000</pubDate>
-		<dc:creator><![CDATA[codenrxproduct]]></dc:creator>
-		<guid isPermaLink="false">https://c2x.codenrx.com/wp-content/uploads/2020/05/revolution.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>35</wp:post_id>
-		<wp:post_date><![CDATA[2020-05-28 18:27:55]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-05-28 18:27:55]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[revolution]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>20</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://c2x.codenrx.com/wp-content/uploads/2020/05/revolution.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020/05/revolution.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:545;s:6:"height";i:350;s:4:"file";s:22:"2020/05/revolution.png";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:22:"revolution-300x193.png";s:5:"width";i:300;s:6:"height";i:193;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:22:"revolution-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>shop-home</title>
-		<link>https://c2x.codenrx.com/contact/shop-home/</link>
-		<pubDate>Thu, 28 May 2020 18:27:58 +0000</pubDate>
-		<dc:creator><![CDATA[codenrxproduct]]></dc:creator>
-		<guid isPermaLink="false">https://c2x.codenrx.com/wp-content/uploads/2020/05/shop-home.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>36</wp:post_id>
-		<wp:post_date><![CDATA[2020-05-28 18:27:58]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-05-28 18:27:58]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[shop-home]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>20</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://c2x.codenrx.com/wp-content/uploads/2020/05/shop-home.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020/05/shop-home.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:545;s:6:"height";i:350;s:4:"file";s:21:"2020/05/shop-home.png";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:21:"shop-home-300x193.png";s:5:"width";i:300;s:6:"height";i:193;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:21:"shop-home-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>sono</title>
-		<link>https://c2x.codenrx.com/contact/sono/</link>
-		<pubDate>Thu, 28 May 2020 18:28:01 +0000</pubDate>
-		<dc:creator><![CDATA[codenrxproduct]]></dc:creator>
-		<guid isPermaLink="false">https://c2x.codenrx.com/wp-content/uploads/2020/05/sono.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>37</wp:post_id>
-		<wp:post_date><![CDATA[2020-05-28 18:28:01]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-05-28 18:28:01]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[sono]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>20</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://c2x.codenrx.com/wp-content/uploads/2020/05/sono.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020/05/sono.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:545;s:6:"height";i:350;s:4:"file";s:16:"2020/05/sono.png";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:16:"sono-300x193.png";s:5:"width";i:300;s:6:"height";i:193;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:16:"sono-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>yummy-demo</title>
-		<link>https://c2x.codenrx.com/contact/yummy-demo/</link>
-		<pubDate>Thu, 28 May 2020 18:28:07 +0000</pubDate>
-		<dc:creator><![CDATA[codenrxproduct]]></dc:creator>
-		<guid isPermaLink="false">https://c2x.codenrx.com/wp-content/uploads/2020/05/yummy-demo.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>38</wp:post_id>
-		<wp:post_date><![CDATA[2020-05-28 18:28:07]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-05-28 18:28:07]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[yummy-demo]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>20</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://c2x.codenrx.com/wp-content/uploads/2020/05/yummy-demo.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020/05/yummy-demo.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:545;s:6:"height";i:350;s:4:"file";s:22:"2020/05/yummy-demo.png";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:22:"yummy-demo-300x193.png";s:5:"width";i:300;s:6:"height";i:193;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:22:"yummy-demo-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>man</title>
-		<link>https://c2x.codenrx.com/contact/man/</link>
-		<pubDate>Thu, 28 May 2020 18:29:19 +0000</pubDate>
-		<dc:creator><![CDATA[codenrxproduct]]></dc:creator>
-		<guid isPermaLink="false">https://c2x.codenrx.com/wp-content/uploads/2020/05/man.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>39</wp:post_id>
-		<wp:post_date><![CDATA[2020-05-28 18:29:19]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-05-28 18:29:19]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[man]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>20</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://c2x.codenrx.com/wp-content/uploads/2020/05/man-scaled.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020/05/man-scaled.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2560;s:6:"height";i:2560;s:4:"file";s:22:"2020/05/man-scaled.jpg";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:15:"man-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:17:"man-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:15:"man-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:15:"man-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:17:"man-1536x1536.jpg";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";}s:9:"2048x2048";a:4:{s:4:"file";s:17:"man-2048x2048.jpg";s:5:"width";i:2048;s:6:"height";i:2048;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:14:"original_image";s:7:"man.jpg";}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>landing_bg</title>
-		<link>https://c2x.codenrx.com/contact/landing_bg/</link>
-		<pubDate>Thu, 28 May 2020 18:29:25 +0000</pubDate>
-		<dc:creator><![CDATA[codenrxproduct]]></dc:creator>
-		<guid isPermaLink="false">https://c2x.codenrx.com/wp-content/uploads/2020/05/landing_bg.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>40</wp:post_id>
-		<wp:post_date><![CDATA[2020-05-28 18:29:25]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-05-28 18:29:25]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[landing_bg]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>20</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://c2x.codenrx.com/wp-content/uploads/2020/05/landing_bg.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020/05/landing_bg.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1900;s:6:"height";i:953;s:4:"file";s:22:"2020/05/landing_bg.jpg";s:5:"sizes";a:5:{s:6:"medium";a:4:{s:4:"file";s:22:"landing_bg-300x150.jpg";s:5:"width";i:300;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:23:"landing_bg-1024x514.jpg";s:5:"width";i:1024;s:6:"height";i:514;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:22:"landing_bg-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:22:"landing_bg-768x385.jpg";s:5:"width";i:768;s:6:"height";i:385;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:23:"landing_bg-1536x770.jpg";s:5:"width";i:1536;s:6:"height";i:770;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -815,65 +807,151 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>One Click Demo Import - log_file_2020-05-28__19-50-35</title>
-		<link>https://c2x.codenrx.com/one-click-demo-import-log_file_2020-05-28__19-50-35/</link>
-		<pubDate>Thu, 28 May 2020 19:50:35 +0000</pubDate>
+		<title></title>
+		<link>https://c2x.codenrx.com/70/</link>
+		<pubDate>Thu, 28 May 2020 19:53:27 +0000</pubDate>
 		<dc:creator><![CDATA[codenrxproduct]]></dc:creator>
-		<guid isPermaLink="false">https://c2x.codenrx.com/wp-content/uploads/2020/05/log_file_2020-05-28__19-50-35.txt</guid>
+		<guid isPermaLink="false">https://c2x.codenrx.com/?p=70</guid>
 		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>62</wp:post_id>
-		<wp:post_date><![CDATA[2020-05-28 19:50:35]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-05-28 19:50:35]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:post_id>70</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-28 19:53:27]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-28 19:53:27]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[one-click-demo-import-log_file_2020-05-28__19-50-35]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_name><![CDATA[70]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://c2x.codenrx.com/wp-content/uploads/2020/05/log_file_2020-05-28__19-50-35.txt]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020/05/log_file_2020-05-28__19-50-35.txt]]></wp:meta_value>
+										<category domain="nav_menu" nicename="header"><![CDATA[header]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[50]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cropped-logo-1.png</title>
-		<link>https://c2x.codenrx.com/cropped-logo-1-png/</link>
-		<pubDate>Thu, 28 May 2020 19:52:22 +0000</pubDate>
+		<title>logo-1</title>
+		<link>https://c2x.codenrx.com/logo-1/</link>
+		<pubDate>Thu, 28 May 2020 22:30:36 +0000</pubDate>
 		<dc:creator><![CDATA[codenrxproduct]]></dc:creator>
-		<guid isPermaLink="false">https://c2x.codenrx.com/wp-content/uploads/2020/05/cropped-logo-1.png</guid>
+		<guid isPermaLink="false">https://c2x.codenrx.com/wp-content/uploads/2020/05/logo-1.png</guid>
 		<description></description>
-		<content:encoded><![CDATA[https://c2x.codenrx.com/wp-content/uploads/2020/05/cropped-logo-1.png]]></content:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>64</wp:post_id>
-		<wp:post_date><![CDATA[2020-05-28 19:52:22]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-05-28 19:52:22]]></wp:post_date_gmt>
+		<wp:post_id>135</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-28 22:30:36]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-28 22:30:36]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[cropped-logo-1-png]]></wp:post_name>
+		<wp:post_name><![CDATA[logo-1]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://c2x.codenrx.com/wp-content/uploads/2020/05/cropped-logo-1.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://c2x.codenrx.com/wp-content/uploads/2020/05/logo-1.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020/05/cropped-logo-1.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
-		<wp:meta_value><![CDATA[site-icon]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2020/05/logo-1.png]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:512;s:6:"height";i:512;s:4:"file";s:26:"2020/05/cropped-logo-1.png";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:26:"cropped-logo-1-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:26:"cropped-logo-1-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:13:"site_icon-270";a:4:{s:4:"file";s:26:"cropped-logo-1-270x270.png";s:5:"width";i:270;s:6:"height";i:270;s:9:"mime-type";s:9:"image/png";}s:13:"site_icon-192";a:4:{s:4:"file";s:26:"cropped-logo-1-192x192.png";s:5:"width";i:192;s:6:"height";i:192;s:9:"mime-type";s:9:"image/png";}s:13:"site_icon-180";a:4:{s:4:"file";s:26:"cropped-logo-1-180x180.png";s:5:"width";i:180;s:6:"height";i:180;s:9:"mime-type";s:9:"image/png";}s:12:"site_icon-32";a:4:{s:4:"file";s:24:"cropped-logo-1-32x32.png";s:5:"width";i:32;s:6:"height";i:32;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:400;s:6:"height";i:273;s:4:"file";s:18:"2020/05/logo-1.png";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:18:"logo-1-300x205.png";s:5:"width";i:300;s:6:"height";i:205;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:18:"logo-1-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>logo-2</title>
+		<link>https://c2x.codenrx.com/logo-2/</link>
+		<pubDate>Thu, 28 May 2020 22:30:37 +0000</pubDate>
+		<dc:creator><![CDATA[codenrxproduct]]></dc:creator>
+		<guid isPermaLink="false">https://c2x.codenrx.com/wp-content/uploads/2020/05/logo-2.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>136</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-28 22:30:37]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-28 22:30:37]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[logo-2]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://c2x.codenrx.com/wp-content/uploads/2020/05/logo-2.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/logo-2.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:400;s:6:"height";i:259;s:4:"file";s:18:"2020/05/logo-2.png";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:18:"logo-2-300x194.png";s:5:"width";i:300;s:6:"height";i:194;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:18:"logo-2-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>madrid</title>
+		<link>https://c2x.codenrx.com/madrid/</link>
+		<pubDate>Thu, 28 May 2020 22:30:42 +0000</pubDate>
+		<dc:creator><![CDATA[codenrxproduct]]></dc:creator>
+		<guid isPermaLink="false">https://c2x.codenrx.com/wp-content/uploads/2020/05/madrid.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>137</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-28 22:30:42]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-28 22:30:42]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[madrid]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://c2x.codenrx.com/wp-content/uploads/2020/05/madrid.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/madrid.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:546;s:6:"height";i:350;s:4:"file";s:18:"2020/05/madrid.png";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:18:"madrid-300x192.png";s:5:"width";i:300;s:6:"height";i:192;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:18:"madrid-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1080,158 +1158,34 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>favicon</title>
-		<link>https://c2x.codenrx.com/contact/favicon/</link>
-		<pubDate>Thu, 28 May 2020 18:30:02 +0000</pubDate>
+		<title>landing_bg</title>
+		<link>https://c2x.codenrx.com/landing_bg/</link>
+		<pubDate>Thu, 28 May 2020 22:30:34 +0000</pubDate>
 		<dc:creator><![CDATA[codenrxproduct]]></dc:creator>
-		<guid isPermaLink="false">https://c2x.codenrx.com/wp-content/uploads/2020/05/favicon.png</guid>
+		<guid isPermaLink="false">https://c2x.codenrx.com/wp-content/uploads/2020/05/landing_bg.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>41</wp:post_id>
-		<wp:post_date><![CDATA[2020-05-28 18:30:02]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-05-28 18:30:02]]></wp:post_date_gmt>
+		<wp:post_id>134</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-28 22:30:34]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-28 22:30:34]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[favicon]]></wp:post_name>
+		<wp:post_name><![CDATA[landing_bg]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>20</wp:post_parent>
+		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://c2x.codenrx.com/wp-content/uploads/2020/05/favicon.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://c2x.codenrx.com/wp-content/uploads/2020/05/landing_bg.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020/05/favicon.png]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2020/05/landing_bg.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:450;s:6:"height";i:450;s:4:"file";s:19:"2020/05/favicon.png";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:19:"favicon-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:19:"favicon-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>logo-1</title>
-		<link>https://c2x.codenrx.com/contact/logo-1/</link>
-		<pubDate>Thu, 28 May 2020 18:30:04 +0000</pubDate>
-		<dc:creator><![CDATA[codenrxproduct]]></dc:creator>
-		<guid isPermaLink="false">https://c2x.codenrx.com/wp-content/uploads/2020/05/logo-1.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>42</wp:post_id>
-		<wp:post_date><![CDATA[2020-05-28 18:30:04]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-05-28 18:30:04]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[logo-1]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>20</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://c2x.codenrx.com/wp-content/uploads/2020/05/logo-1.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020/05/logo-1.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:400;s:6:"height";i:273;s:4:"file";s:18:"2020/05/logo-1.png";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:18:"logo-1-300x205.png";s:5:"width";i:300;s:6:"height";i:205;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:18:"logo-1-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>logo-2</title>
-		<link>https://c2x.codenrx.com/contact/logo-2/</link>
-		<pubDate>Thu, 28 May 2020 18:30:13 +0000</pubDate>
-		<dc:creator><![CDATA[codenrxproduct]]></dc:creator>
-		<guid isPermaLink="false">https://c2x.codenrx.com/wp-content/uploads/2020/05/logo-2.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>43</wp:post_id>
-		<wp:post_date><![CDATA[2020-05-28 18:30:13]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-05-28 18:30:13]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[logo-2]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>20</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://c2x.codenrx.com/wp-content/uploads/2020/05/logo-2.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020/05/logo-2.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:400;s:6:"height";i:259;s:4:"file";s:18:"2020/05/logo-2.png";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:18:"logo-2-300x194.png";s:5:"width";i:300;s:6:"height";i:194;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:18:"logo-2-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>d23fd500-04e7-3f47-a530-221a96302169</title>
-		<link>https://c2x.codenrx.com/contact/d23fd500-04e7-3f47-a530-221a96302169/</link>
-		<pubDate>Thu, 28 May 2020 18:32:00 +0000</pubDate>
-		<dc:creator><![CDATA[codenrxproduct]]></dc:creator>
-		<guid isPermaLink="false">https://c2x.codenrx.com/wp-content/uploads/2020/05/d23fd500-04e7-3f47-a530-221a96302169.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>44</wp:post_id>
-		<wp:post_date><![CDATA[2020-05-28 18:32:00]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-05-28 18:32:00]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[d23fd500-04e7-3f47-a530-221a96302169]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>20</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://c2x.codenrx.com/wp-content/uploads/2020/05/d23fd500-04e7-3f47-a530-221a96302169.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020/05/d23fd500-04e7-3f47-a530-221a96302169.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1250;s:6:"height";i:833;s:4:"file";s:48:"2020/05/d23fd500-04e7-3f47-a530-221a96302169.jpg";s:5:"sizes";a:4:{s:6:"medium";a:4:{s:4:"file";s:48:"d23fd500-04e7-3f47-a530-221a96302169-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:49:"d23fd500-04e7-3f47-a530-221a96302169-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:48:"d23fd500-04e7-3f47-a530-221a96302169-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:48:"d23fd500-04e7-3f47-a530-221a96302169-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>69eb3575-9f31-3aae-acb2-42d07be44607</title>
-		<link>https://c2x.codenrx.com/contact/69eb3575-9f31-3aae-acb2-42d07be44607/</link>
-		<pubDate>Thu, 28 May 2020 18:33:14 +0000</pubDate>
-		<dc:creator><![CDATA[codenrxproduct]]></dc:creator>
-		<guid isPermaLink="false">https://c2x.codenrx.com/wp-content/uploads/2020/05/69eb3575-9f31-3aae-acb2-42d07be44607.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>45</wp:post_id>
-		<wp:post_date><![CDATA[2020-05-28 18:33:14]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-05-28 18:33:14]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[69eb3575-9f31-3aae-acb2-42d07be44607]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>20</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://c2x.codenrx.com/wp-content/uploads/2020/05/69eb3575-9f31-3aae-acb2-42d07be44607.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020/05/69eb3575-9f31-3aae-acb2-42d07be44607.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1088;s:6:"height";i:725;s:4:"file";s:48:"2020/05/69eb3575-9f31-3aae-acb2-42d07be44607.jpg";s:5:"sizes";a:4:{s:6:"medium";a:4:{s:4:"file";s:48:"69eb3575-9f31-3aae-acb2-42d07be44607-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:49:"69eb3575-9f31-3aae-acb2-42d07be44607-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:48:"69eb3575-9f31-3aae-acb2-42d07be44607-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:48:"69eb3575-9f31-3aae-acb2-42d07be44607-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1900;s:6:"height";i:953;s:4:"file";s:22:"2020/05/landing_bg.jpg";s:5:"sizes";a:5:{s:6:"medium";a:4:{s:4:"file";s:22:"landing_bg-300x150.jpg";s:5:"width";i:300;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:23:"landing_bg-1024x514.jpg";s:5:"width";i:1024;s:6:"height";i:514;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:22:"landing_bg-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:22:"landing_bg-768x385.jpg";s:5:"width";i:768;s:6:"height";i:385;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:23:"landing_bg-1536x770.jpg";s:5:"width";i:1536;s:6:"height";i:770;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1343,158 +1297,220 @@ create SomeTing New</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>9a2e93e2-36fe-3ba2-884a-fc8352dab74b</title>
-		<link>https://c2x.codenrx.com/libero-facere-quae-omnis-atque-3/9a2e93e2-36fe-3ba2-884a-fc8352dab74b/</link>
-		<pubDate>Thu, 28 May 2020 20:00:33 +0000</pubDate>
+		<title>main</title>
+		<link>https://c2x.codenrx.com/main/</link>
+		<pubDate>Thu, 28 May 2020 22:30:45 +0000</pubDate>
 		<dc:creator><![CDATA[codenrxproduct]]></dc:creator>
-		<guid isPermaLink="false">https://c2x.codenrx.com/wp-content/uploads/2020/05/9a2e93e2-36fe-3ba2-884a-fc8352dab74b.jpg</guid>
+		<guid isPermaLink="false">https://c2x.codenrx.com/wp-content/uploads/2020/05/main.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>78</wp:post_id>
-		<wp:post_date><![CDATA[2020-05-28 20:00:33]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-05-28 20:00:33]]></wp:post_date_gmt>
+		<wp:post_id>138</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-28 22:30:45]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-28 22:30:45]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[9a2e93e2-36fe-3ba2-884a-fc8352dab74b]]></wp:post_name>
+		<wp:post_name><![CDATA[main]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>77</wp:post_parent>
+		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://c2x.codenrx.com/wp-content/uploads/2020/05/9a2e93e2-36fe-3ba2-884a-fc8352dab74b.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://c2x.codenrx.com/wp-content/uploads/2020/05/main.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020/05/9a2e93e2-36fe-3ba2-884a-fc8352dab74b.jpg]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2020/05/main.png]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1160;s:6:"height";i:773;s:4:"file";s:48:"2020/05/9a2e93e2-36fe-3ba2-884a-fc8352dab74b.jpg";s:5:"sizes";a:4:{s:6:"medium";a:4:{s:4:"file";s:48:"9a2e93e2-36fe-3ba2-884a-fc8352dab74b-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:49:"9a2e93e2-36fe-3ba2-884a-fc8352dab74b-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:48:"9a2e93e2-36fe-3ba2-884a-fc8352dab74b-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:48:"9a2e93e2-36fe-3ba2-884a-fc8352dab74b-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:545;s:6:"height";i:350;s:4:"file";s:16:"2020/05/main.png";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:16:"main-300x193.png";s:5:"width";i:300;s:6:"height";i:193;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:16:"main-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>8501dae9-96d7-39a3-8b3d-dfeabec3327e</title>
-		<link>https://c2x.codenrx.com/libero-facere-quae-omnis-atque-5/8501dae9-96d7-39a3-8b3d-dfeabec3327e/</link>
-		<pubDate>Thu, 28 May 2020 20:04:30 +0000</pubDate>
+		<title>man-scaled</title>
+		<link>https://c2x.codenrx.com/man-scaled/</link>
+		<pubDate>Thu, 28 May 2020 22:33:02 +0000</pubDate>
 		<dc:creator><![CDATA[codenrxproduct]]></dc:creator>
-		<guid isPermaLink="false">https://c2x.codenrx.com/wp-content/uploads/2020/05/8501dae9-96d7-39a3-8b3d-dfeabec3327e.jpg</guid>
+		<guid isPermaLink="false">https://c2x.codenrx.com/wp-content/uploads/2020/05/man-scaled-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>83</wp:post_id>
-		<wp:post_date><![CDATA[2020-05-28 20:04:30]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-05-28 20:04:30]]></wp:post_date_gmt>
+		<wp:post_id>145</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-28 22:33:02]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-28 22:33:02]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[8501dae9-96d7-39a3-8b3d-dfeabec3327e]]></wp:post_name>
+		<wp:post_name><![CDATA[man-scaled]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>82</wp:post_parent>
+		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://c2x.codenrx.com/wp-content/uploads/2020/05/8501dae9-96d7-39a3-8b3d-dfeabec3327e.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://c2x.codenrx.com/wp-content/uploads/2020/05/man-scaled-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020/05/8501dae9-96d7-39a3-8b3d-dfeabec3327e.jpg]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2560;s:6:"height";i:2560;s:4:"file";s:24:"2020/05/man-scaled-1.jpg";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:24:"man-scaled-1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:26:"man-scaled-1-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:24:"man-scaled-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:24:"man-scaled-1-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:26:"man-scaled-1-1536x1536.jpg";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";}s:9:"2048x2048";a:4:{s:4:"file";s:26:"man-scaled-1-2048x2048.jpg";s:5:"width";i:2048;s:6:"height";i:2048;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1175;s:6:"height";i:783;s:4:"file";s:48:"2020/05/8501dae9-96d7-39a3-8b3d-dfeabec3327e.jpg";s:5:"sizes";a:4:{s:6:"medium";a:4:{s:4:"file";s:48:"8501dae9-96d7-39a3-8b3d-dfeabec3327e-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:49:"8501dae9-96d7-39a3-8b3d-dfeabec3327e-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:48:"8501dae9-96d7-39a3-8b3d-dfeabec3327e-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:48:"8501dae9-96d7-39a3-8b3d-dfeabec3327e-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/man-scaled-1.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>24e0db04-ac1b-3ec5-a52f-38ef01cbed7d</title>
-		<link>https://c2x.codenrx.com/libero-facere-quae-omnis-atque-7/24e0db04-ac1b-3ec5-a52f-38ef01cbed7d/</link>
-		<pubDate>Thu, 28 May 2020 20:07:27 +0000</pubDate>
+		<title>masonry</title>
+		<link>https://c2x.codenrx.com/masonry/</link>
+		<pubDate>Thu, 28 May 2020 22:31:04 +0000</pubDate>
 		<dc:creator><![CDATA[codenrxproduct]]></dc:creator>
-		<guid isPermaLink="false">https://c2x.codenrx.com/wp-content/uploads/2020/05/24e0db04-ac1b-3ec5-a52f-38ef01cbed7d.jpg</guid>
+		<guid isPermaLink="false">https://c2x.codenrx.com/wp-content/uploads/2020/05/masonry.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>88</wp:post_id>
-		<wp:post_date><![CDATA[2020-05-28 20:07:27]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-05-28 20:07:27]]></wp:post_date_gmt>
+		<wp:post_id>140</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-28 22:31:04]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-28 22:31:04]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[24e0db04-ac1b-3ec5-a52f-38ef01cbed7d]]></wp:post_name>
+		<wp:post_name><![CDATA[masonry]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>87</wp:post_parent>
+		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://c2x.codenrx.com/wp-content/uploads/2020/05/24e0db04-ac1b-3ec5-a52f-38ef01cbed7d.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://c2x.codenrx.com/wp-content/uploads/2020/05/masonry.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020/05/24e0db04-ac1b-3ec5-a52f-38ef01cbed7d.jpg]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2020/05/masonry.png]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1382;s:6:"height";i:921;s:4:"file";s:48:"2020/05/24e0db04-ac1b-3ec5-a52f-38ef01cbed7d.jpg";s:5:"sizes";a:4:{s:6:"medium";a:4:{s:4:"file";s:48:"24e0db04-ac1b-3ec5-a52f-38ef01cbed7d-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:49:"24e0db04-ac1b-3ec5-a52f-38ef01cbed7d-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:48:"24e0db04-ac1b-3ec5-a52f-38ef01cbed7d-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:48:"24e0db04-ac1b-3ec5-a52f-38ef01cbed7d-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:545;s:6:"height";i:350;s:4:"file";s:19:"2020/05/masonry.png";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:19:"masonry-300x193.png";s:5:"width";i:300;s:6:"height";i:193;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:19:"masonry-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>d18cf38b-9ebf-37b4-bd65-65af2915c92e</title>
-		<link>https://c2x.codenrx.com/libero-facere-quae-omnis-atque-8/d18cf38b-9ebf-37b4-bd65-65af2915c92e/</link>
-		<pubDate>Thu, 28 May 2020 20:08:20 +0000</pubDate>
+		<title>revolution</title>
+		<link>https://c2x.codenrx.com/revolution/</link>
+		<pubDate>Thu, 28 May 2020 22:31:07 +0000</pubDate>
 		<dc:creator><![CDATA[codenrxproduct]]></dc:creator>
-		<guid isPermaLink="false">https://c2x.codenrx.com/wp-content/uploads/2020/05/d18cf38b-9ebf-37b4-bd65-65af2915c92e.jpg</guid>
+		<guid isPermaLink="false">https://c2x.codenrx.com/wp-content/uploads/2020/05/revolution.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>91</wp:post_id>
-		<wp:post_date><![CDATA[2020-05-28 20:08:20]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-05-28 20:08:20]]></wp:post_date_gmt>
+		<wp:post_id>141</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-28 22:31:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-28 22:31:07]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[d18cf38b-9ebf-37b4-bd65-65af2915c92e]]></wp:post_name>
+		<wp:post_name><![CDATA[revolution]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>90</wp:post_parent>
+		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://c2x.codenrx.com/wp-content/uploads/2020/05/d18cf38b-9ebf-37b4-bd65-65af2915c92e.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://c2x.codenrx.com/wp-content/uploads/2020/05/revolution.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020/05/d18cf38b-9ebf-37b4-bd65-65af2915c92e.jpg]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2020/05/revolution.png]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1283;s:6:"height";i:855;s:4:"file";s:48:"2020/05/d18cf38b-9ebf-37b4-bd65-65af2915c92e.jpg";s:5:"sizes";a:4:{s:6:"medium";a:4:{s:4:"file";s:48:"d18cf38b-9ebf-37b4-bd65-65af2915c92e-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:49:"d18cf38b-9ebf-37b4-bd65-65af2915c92e-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:48:"d18cf38b-9ebf-37b4-bd65-65af2915c92e-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:48:"d18cf38b-9ebf-37b4-bd65-65af2915c92e-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:545;s:6:"height";i:350;s:4:"file";s:22:"2020/05/revolution.png";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:22:"revolution-300x193.png";s:5:"width";i:300;s:6:"height";i:193;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:22:"revolution-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cc21d9f8-e983-355b-adda-f7f5a920acd0</title>
-		<link>https://c2x.codenrx.com/libero-facere-quae-omnis-atque-9/cc21d9f8-e983-355b-adda-f7f5a920acd0/</link>
-		<pubDate>Thu, 28 May 2020 20:10:24 +0000</pubDate>
+		<title>shop-home</title>
+		<link>https://c2x.codenrx.com/shop-home/</link>
+		<pubDate>Thu, 28 May 2020 22:31:09 +0000</pubDate>
 		<dc:creator><![CDATA[codenrxproduct]]></dc:creator>
-		<guid isPermaLink="false">https://c2x.codenrx.com/wp-content/uploads/2020/05/cc21d9f8-e983-355b-adda-f7f5a920acd0.jpg</guid>
+		<guid isPermaLink="false">https://c2x.codenrx.com/wp-content/uploads/2020/05/shop-home.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>94</wp:post_id>
-		<wp:post_date><![CDATA[2020-05-28 20:10:24]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-05-28 20:10:24]]></wp:post_date_gmt>
+		<wp:post_id>142</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-28 22:31:09]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-28 22:31:09]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[cc21d9f8-e983-355b-adda-f7f5a920acd0]]></wp:post_name>
+		<wp:post_name><![CDATA[shop-home]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>93</wp:post_parent>
+		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://c2x.codenrx.com/wp-content/uploads/2020/05/cc21d9f8-e983-355b-adda-f7f5a920acd0.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://c2x.codenrx.com/wp-content/uploads/2020/05/shop-home.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020/05/cc21d9f8-e983-355b-adda-f7f5a920acd0.jpg]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2020/05/shop-home.png]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1306;s:6:"height";i:870;s:4:"file";s:48:"2020/05/cc21d9f8-e983-355b-adda-f7f5a920acd0.jpg";s:5:"sizes";a:4:{s:6:"medium";a:4:{s:4:"file";s:48:"cc21d9f8-e983-355b-adda-f7f5a920acd0-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:49:"cc21d9f8-e983-355b-adda-f7f5a920acd0-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:48:"cc21d9f8-e983-355b-adda-f7f5a920acd0-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:48:"cc21d9f8-e983-355b-adda-f7f5a920acd0-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:545;s:6:"height";i:350;s:4:"file";s:21:"2020/05/shop-home.png";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:21:"shop-home-300x193.png";s:5:"width";i:300;s:6:"height";i:193;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:21:"shop-home-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>sono</title>
+		<link>https://c2x.codenrx.com/sono/</link>
+		<pubDate>Thu, 28 May 2020 22:31:10 +0000</pubDate>
+		<dc:creator><![CDATA[codenrxproduct]]></dc:creator>
+		<guid isPermaLink="false">https://c2x.codenrx.com/wp-content/uploads/2020/05/sono.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>143</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-28 22:31:10]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-28 22:31:10]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[sono]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://c2x.codenrx.com/wp-content/uploads/2020/05/sono.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/sono.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:545;s:6:"height";i:350;s:4:"file";s:16:"2020/05/sono.png";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:16:"sono-300x193.png";s:5:"width";i:300;s:6:"height";i:193;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:16:"sono-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>yummy-demo</title>
+		<link>https://c2x.codenrx.com/yummy-demo/</link>
+		<pubDate>Thu, 28 May 2020 22:31:15 +0000</pubDate>
+		<dc:creator><![CDATA[codenrxproduct]]></dc:creator>
+		<guid isPermaLink="false">https://c2x.codenrx.com/wp-content/uploads/2020/05/yummy-demo.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>144</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-28 22:31:15]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-28 22:31:15]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[yummy-demo]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://c2x.codenrx.com/wp-content/uploads/2020/05/yummy-demo.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/yummy-demo.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:545;s:6:"height";i:350;s:4:"file";s:22:"2020/05/yummy-demo.png";s:5:"sizes";a:2:{s:6:"medium";a:4:{s:4:"file";s:22:"yummy-demo-300x193.png";s:5:"width";i:300;s:6:"height";i:193;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:22:"yummy-demo-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1831,10 +1847,6 @@ create SomeTing New</h2>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[45]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
@@ -2016,61 +2028,6 @@ create SomeTing New</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
-		<link>https://c2x.codenrx.com/70/</link>
-		<pubDate>Thu, 28 May 2020 19:53:27 +0000</pubDate>
-		<dc:creator><![CDATA[codenrxproduct]]></dc:creator>
-		<guid isPermaLink="false">https://c2x.codenrx.com/?p=70</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>70</wp:post_id>
-		<wp:post_date><![CDATA[2020-05-28 19:53:27]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-05-28 19:53:27]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[70]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="header"><![CDATA[header]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[50]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title>Libero facere quae omnis atque</title>
 		<link>https://c2x.codenrx.com/libero-facere-quae-omnis-atque/</link>
 		<pubDate>Thu, 28 May 2020 19:56:02 +0000</pubDate>
@@ -2110,10 +2067,6 @@ Distinctio similique sed voluptatem. Provident omnis nesciunt nihil asperiores c
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[44]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title>Libero facere quae omnis atque</title>
@@ -2150,10 +2103,6 @@ Distinctio similique sed voluptatem. Provident omnis nesciunt nihil asperiores c
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[45]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -2198,10 +2147,6 @@ Distinctio similique sed voluptatem. Provident omnis nesciunt nihil asperiores c
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[78]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
@@ -2244,10 +2189,6 @@ Distinctio similique sed voluptatem. Provident omnis nesciunt nihil asperiores c
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[44]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
@@ -2287,10 +2228,6 @@ Distinctio similique sed voluptatem. Provident omnis nesciunt nihil asperiores c
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[83]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -2335,10 +2272,6 @@ Distinctio similique sed voluptatem. Provident omnis nesciunt nihil asperiores c
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[44]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
@@ -2378,10 +2311,6 @@ Distinctio similique sed voluptatem. Provident omnis nesciunt nihil asperiores c
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[88]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -2425,10 +2354,6 @@ Distinctio similique sed voluptatem. Provident omnis nesciunt nihil asperiores c
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[91]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
@@ -2468,10 +2393,6 @@ Distinctio similique sed voluptatem. Provident omnis nesciunt nihil asperiores c
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[94]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
