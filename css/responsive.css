@@ -1,0 +1,69 @@
+@media (max-width: 575px) {
+  .menu-bars {
+    font-size: 21px;
+    display: block;
+    cursor: pointer;
+    z-index: 1;
+  }
+  nav.header > ul.header-menu {
+    display: none;
+    list-style: none;
+    background: white;
+    position: absolute;
+    top: 0;
+    width: 90%;
+    height: fit-content;
+    margin-top: 15px;
+    padding-bottom: 10px;
+  }
+  nav.header > ul.header-menu li {
+    padding: 10px 0;
+  }
+  .hero-text h4 {
+    font-size: 60px;
+  }
+  .row {
+    display: block !important;
+  }
+  .section-title-area {
+    margin-top: 7rem;
+    margin-bottom: 2rem;
+  }
+  .section-title-area h4 {
+    font-size: 25px !important;
+  }
+  .section-title-area p {
+    font-size: 14px;
+    margin-left: 25px;
+    margin-right: 25px;
+  }
+  .home-blog-left {
+    margin-bottom: 2rem;
+  }
+  .home-blog-right {
+    width: 100%;
+  }
+  .posts > .post-card {
+    width: 100%;
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+  .next-prev-posts {
+    width: 100%;
+  }
+  .next-prev-posts > div {
+    width: 100%;
+    margin-bottom: 1.4rem;
+  }
+  .comments-section {
+    width: 100%;
+  }
+  .project-items > .item {
+    width: fit-content;
+  }
+  }
+.elementor-section .elementor-container {
+     display: block !important;
+     margin: 0 !important; 
+}
+}
